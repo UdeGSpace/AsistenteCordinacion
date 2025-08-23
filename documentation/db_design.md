@@ -13,6 +13,7 @@ Catalogo de Materias
 		Créditos int - Cantidad de créditos que da la materia 
 		Lab - Tipo de aula que necesita 
 		Complejidad - numero calculado con base al histórico de calificaciones obtenidas por los alumnos y la relación entre alumnos que cursaron y alumnos aprobados 
+        calificacion minima
 	}
 ]
 
